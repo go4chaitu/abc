@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_email">
+    <sys_script_email action="INSERT_OR_UPDATE">
+        <name>MyActionItems</name>
+        <new_lines_to_html>false</new_lines_to_html>
+        <script><![CDATA[(function runMailScript(/* GlideRecord */ current, /* TemplatePrinter */ template,
+/* Optional EmailOutbound */ email, /* Optional GlideRecord */ email_action,
+/* Optional GlideRecord */ event) {
+	var result = "";
+	var tasks = JSON.parse(event.parm2);
+	email.setSubject('My Action Items');
+	var border = 'border: 1px solid black; margin: 1em;';
+	var perUserAIs = {};
+	var gr = new GlideRecord('x_snc_team_action_items');
+	gr.addEncodedQuery('status!=completed');
+	gr.query();
+	while(gr.next()) {
+		if(!perUserAIs[gr.owner.user_name + '']){
+			perUserAIs[gr.owner.user_name + ''] = [];
+		}
+		perUserAIs[gr.owner.user_name + ''].push({'description': gr.getValue('description'), 'owner': gr.owner.user_name + '', 'start_date': gr.getValue('start_date'), 'end_date': gr.getValue('end_date'), 'origin': gr.origin.description + "" });
+	}
+	
+	for(var user in perUserAIs) {
+		result = result + "<br><br><strong><u>" + user + "</strong></u>";
+		result = result + ['<table style = "border-collapse:collapse;width:100%;font-family: sans-serif;font-size: 12px;"><tbody>',
+             '<tr>',
+					'<th valign="top" style="border: solid 1px #ccc;">Description</th>',
+					'<th valign="top" style="border: solid 1px #ccc;">Start Date</th>',
+ 					'<th valign="top" style="border: solid 1px #ccc;">End Date</th>',
+ 					'<th valign="top" style="border: solid 1px #ccc;">Origin</th>',
+            '</tr>'].join('');
+		for(var actionItemIndx in perUserAIs[user]) {
+			result = result + '<tr>'+
+				'<td valign="top" style="border: solid 1px #ccc;">'+ perUserAIs[user][actionItemIndx]['description'] + '</td>' + 
+				'<td valign="top" style="border: solid 1px #ccc;">'+ perUserAIs[user][actionItemIndx]['start_date'] + '</td>' + 
+				'<td valign="top" style="border: solid 1px #ccc;">'+ perUserAIs[user][actionItemIndx]['end_date'] + '</td>' + 
+				'<td valign="top" style="border: solid 1px #ccc;">'+ perUserAIs[user][actionItemIndx]['origin'] + '</td>' + '</tr>';	
+		}	
+		result = result + "</table>";
+	}
+		
+	template.print(result);
+	
+})(current, template, email, email_action, event);]]></script>
+        <sys_class_name>sys_script_email</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-19 08:38:24</sys_created_on>
+        <sys_id>17238ff2db83470048d13a2b7c96198c</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name>MyActionItems</sys_name>
+        <sys_package display_value="team" source="x_snc_team">343ef362db7103004a069ea3db9619b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="team">343ef362db7103004a069ea3db9619b4</sys_scope>
+        <sys_update_name>sys_script_email_17238ff2db83470048d13a2b7c96198c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-19 10:12:51</sys_updated_on>
+    </sys_script_email>
+</record_update>

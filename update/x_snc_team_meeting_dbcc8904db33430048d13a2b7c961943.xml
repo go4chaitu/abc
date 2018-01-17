@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_snc_team_meeting">
+    <x_snc_team_meeting action="INSERT_OR_UPDATE">
+        <agenda>1. ACR -- Inconsistency&#13;
+     Easy to handle outliers but outstanding &#13;
+&#13;
+in organisations, exceptional or high performance is something that doesn't happen every day. Most people are effective. That is, they perform their job how it is meant to be performed.&#13;
+&#13;
+Template:&#13;
+        Mediocre&#13;
+               Doing your job well with the quality and timeliness ensured. &#13;
+               Ideation without implementation is day dreaming without any purpose.&#13;
+&#13;
+         Effective&#13;
+                Along with doing your job well in time and quality, have you walked an extra mile to set a benchmark on the factors you have control on? like,&#13;
+                   1. Work smart by automating the routine and save man-hours or cost to the company?&#13;
+                   2. Try to question the status quo? Persistent in trying different ideas and rejoice the failure?&#13;
+                   3. Ideator love to implement and mad of getting the adaption&#13;
+                   3. Rigor to leave a mark that would help enhance or reshape your identity?&#13;
+&#13;
+Challenge me with data...  cross your heart and claim your authority...  actions... actions and actions!&#13;
+&#13;
+2. Budget for RcR Improvements&#13;
+          In-line code linting support&#13;
+          Design to Productize &#13;
+          Upgrade Skipped entries into RcR &#13;
+          Extending it to new code types &#13;
+          Enhancing new rules and per instance rule customization&#13;
+&#13;
+3. Looping in my managers into the email conversation is ok?&#13;
+</agenda>
+        <description>1-1 Meeting with Brian Klapac</description>
+        <employee display_value="Brian Klapac">0b758ddd2b14a204f9324f9ab5da151b</employee>
+        <location/>
+        <mom/>
+        <next_meeting/>
+        <planned_date>2018-01-30</planned_date>
+        <previous_meeting/>
+        <repetition>monthly</repetition>
+        <status>planned</status>
+        <sys_class_name>x_snc_team_meeting</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-16 17:45:14</sys_created_on>
+        <sys_id>dbcc8904db33430048d13a2b7c961943</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>1-1 Meeting with Brian Klapac</sys_name>
+        <sys_package display_value="team" source="x_snc_team">343ef362db7103004a069ea3db9619b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="team">343ef362db7103004a069ea3db9619b4</sys_scope>
+        <sys_update_name>x_snc_team_meeting_dbcc8904db33430048d13a2b7c961943</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-17 03:08:41</sys_updated_on>
+        <type>1_1</type>
+    </x_snc_team_meeting>
+</record_update>

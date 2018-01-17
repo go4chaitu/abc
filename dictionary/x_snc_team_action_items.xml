@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="update_synch=true" extends="sys_metadata" label="Action Items" max_length="40" name="x_snc_team_action_items" type="collection">
+        <element choice="1" label="Category" max_length="40" name="category" type="choice">
+            <choice>
+                <element label="Assignment" value="assignment"/>
+                <element label="Cultural Impact" value="cultural_impact"/>
+                <element label="Curious Thoughts" value="thoughts"/>
+                <element label="Improvement Areas" value="improvement"/>
+                <element label="Innovation" value="innovation"/>
+                <element label="Leadership" value="leadership"/>
+                <element label="Learning" value="learning"/>
+                <element label="Leave" value="leave"/>
+                <element label="Misc Feedback" value="feedback"/>
+                <element label="Opportunity" value="opportunity"/>
+                <element label="Process Change" value="process"/>
+            </choice>
+        </element>
+        <element label="Comments" max_length="4000" name="comments" type="journal"/>
+        <element label="Description" max_length="2000" name="description" type="string"/>
+        <element label="End Date" max_length="40" name="end_date" type="glide_date"/>
+        <element label="Follow up" max_length="40" name="follow_up" type="glide_date"/>
+        <element label="Origin" max_length="32" name="origin" reference="x_snc_team_meeting" type="reference"/>
+        <element label="Owner" max_length="32" name="owner" reference="sys_user" reference_qual="employee_numberISNOTEMPTY^EQ" reference_qual_condition="employee_numberISNOTEMPTY^EQ" type="reference"/>
+        <element label="Start Date" max_length="40" name="start_date" type="glide_date"/>
+        <element choice="1" default="draft" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element label="Blocked" value="blocked"/>
+                <element label="Completed" value="completed"/>
+                <element label="Draft" value="draft"/>
+                <element label="On Hold" value="onhold"/>
+                <element label="Work in progress" value="wip"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="owner"/>
+        </index>
+        <index name="index2">
+            <element name="origin"/>
+        </index>
+    </element>
+</database>

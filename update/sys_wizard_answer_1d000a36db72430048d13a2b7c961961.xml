@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Action Items</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Action Items</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Application File" name="Application File">c5a03472db12030048d13a2b7c9619dd</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-06 17:29:08</sys_created_on>
+        <sys_id>1d000a36db72430048d13a2b7c961961</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Action Items</sys_name>
+        <sys_package display_value="team" source="x_snc_team">343ef362db7103004a069ea3db9619b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="team">343ef362db7103004a069ea3db9619b4</sys_scope>
+        <sys_update_name>sys_wizard_answer_1d000a36db72430048d13a2b7c961961</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-06 17:29:08</sys_updated_on>
+        <table/>
+        <target_url>x_snc_team_action_items.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

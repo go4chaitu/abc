@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_snc_team_meeting">
+    <x_snc_team_meeting action="INSERT_OR_UPDATE">
+        <agenda/>
+        <description>1-1 Meeting with Pavan Kanamarlapudi</description>
+        <employee display_value="Pavan Kanamarlapudi">743a80204f8e3a8077b53f75f110c7cf</employee>
+        <location/>
+        <mom/>
+        <next_meeting/>
+        <planned_date>2018-01-12</planned_date>
+        <previous_meeting display_value="1-1 Meeting with Pavan Kanamarlapudi">98d0b5d7dbbe430048d13a2b7c96198a</previous_meeting>
+        <repetition>monthly</repetition>
+        <status>planned</status>
+        <sys_class_name>x_snc_team_meeting</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-12 08:43:54</sys_created_on>
+        <sys_id>82510fa8db4b43004a069ea3db96194c</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>1-1 Meeting with Pavan Kanamarlapudi</sys_name>
+        <sys_package display_value="team" source="x_snc_team">343ef362db7103004a069ea3db9619b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="team">343ef362db7103004a069ea3db9619b4</sys_scope>
+        <sys_update_name>x_snc_team_meeting_82510fa8db4b43004a069ea3db96194c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-12 09:28:06</sys_updated_on>
+        <type>1_1</type>
+    </x_snc_team_meeting>
+</record_update>

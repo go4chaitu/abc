@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_snc_team_meeting">
+    <x_snc_team_meeting action="INSERT_OR_UPDATE">
+        <agenda/>
+        <description>1-1 Meeting with Sree Lakshmi Balanagu</description>
+        <employee display_value="Sree Lakshmi Balanagu">974b41756f044b80d97c5cfd5d3ee47a</employee>
+        <location/>
+        <mom>Accomplishments (from Sree Lakshmi):&#13;
+=================================&#13;
+Integrations which are related to PS Territory: Syncing the territories data from SURF to Apttus.&#13;
+Redesign of the SOW Resources Component: Design/Development of the SOW resources by parsing the line item data from apttus and inserted the data into sow resources.&#13;
+Data Migration work for the product, price list and SOW documents, by facing the challenges with respect to the data. Worked on the SQL Server scripts and SURF Processor scripts for extracting the data.&#13;
+Helped the team for sync issues by gathering the inputs from appropriate members either from apttus/sales team.&#13;
+Supported the team in the Deployment/Resource plan creation.&#13;
+Handling scrum calls and tracking the story/defect status on daily basis.&#13;
+Involved in the calls whenever required to collect the information for on-going job.&#13;
+Participated in the calls/web ex to follow up with Apttus team for resolving the Sync issues.</mom>
+        <next_meeting/>
+        <planned_date>2018-01-19</planned_date>
+        <previous_meeting display_value="1-1 Meeting with Sree Lakshmi Balanagu">5b094a53dbfe430048d13a2b7c961973</previous_meeting>
+        <repetition>monthly</repetition>
+        <status>planned</status>
+        <sys_class_name>x_snc_team_meeting</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-19 11:16:40</sys_created_on>
+        <sys_id>cc7763f2dbc3470048d13a2b7c96197e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>1-1 Meeting with Sree Lakshmi Balanagu</sys_name>
+        <sys_package display_value="team" source="x_snc_team">343ef362db7103004a069ea3db9619b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="team">343ef362db7103004a069ea3db9619b4</sys_scope>
+        <sys_update_name>x_snc_team_meeting_cc7763f2dbc3470048d13a2b7c96197e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-08 05:42:37</sys_updated_on>
+        <type>1_1</type>
+    </x_snc_team_meeting>
+</record_update>

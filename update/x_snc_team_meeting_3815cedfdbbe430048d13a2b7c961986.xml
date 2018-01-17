@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_snc_team_meeting">
+    <x_snc_team_meeting action="INSERT_OR_UPDATE">
+        <agenda>Culture: Authority, Own it and Move Forward  ++ Competition with Collaboration&#13;
+Company Philosophy toward Performance Appraisals&#13;
+Build more visibility&#13;
+</agenda>
+        <description>1-1 Meeting with Avishek Dalal</description>
+        <employee display_value="Avishek Dalal">5885bc930fe6b2408e35a5a8b1050e51</employee>
+        <location/>
+        <mom>1.       Bonus component (98.52%) explanation: ServiceNow follows 9 box metrics with 80:20 split where 20% are reserved for high performers. The first vertical row is seldom allotted since it implies PIP. As you join the organization you gradually step up towards the higher slots. And, again when you reach the higher slots, you're given a higher role and then again you drop down to average box and the cycle goes on. Ideally, in the first stages the bonus component does not only depends on the amount of work you do, rather it also depends on your experience in ServiceNow.&#13;
+2.       Increase Visibility: I've to work on increasing visibility among the executives, and there are various approaches to do it. Innovation, asking questions when they are here, ServiceNow Communities answering questions, Surf Development issues solving are the ways to achieve this. I'm well visible among you, Spandan, Avant and partly Arun, however I need to do it at least for Ritesh and Brian. Also, have 1:1 with Spandan and interact with different managers like Sujit, Sujani.&#13;
+3.       Promotion: When I asked for the criteria of promotion, I learned that Arun strictly follows 1 year in ServiceNow (experience is not that of a factor).&#13;
+4.       ACR's: ACR's are tentative to the policy of the organization.&#13;
+5.       Learning New Skills: Since I'm the only UI developer for PP, I've to focus on various UI technologies such as React, Angular 2 etc. I'm glad that I'm given this role. I'm looking forward to it.&#13;
+6.       Travel and Visa Initiation: Since there is no budget in this quarter, these processes can't be carried on now.&#13;
+7.       Working in SE tracks: I'll now work on SE Story tracks lead by Nilesh for a while. I'll try to set an example to the team by not delaying them till the UAT phase and unnecessary doing T20s overnight.&#13;
+8.       Eclipse Setup: I did not setup Eclipse in my machine as of now, however we've a meeting scheduled next week to carry on this activity.&#13;
+             Completed.</mom>
+        <next_meeting display_value="1-1 Meeting with Avishek Dalal">10776ea2dbcb070048d13a2b7c9619a4</next_meeting>
+        <planned_date>2017-12-15</planned_date>
+        <previous_meeting/>
+        <repetition>monthly</repetition>
+        <status>completed</status>
+        <sys_class_name>x_snc_team_meeting</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-08 07:10:00</sys_created_on>
+        <sys_id>3815cedfdbbe430048d13a2b7c961986</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>1-1 Meeting with Avishek Dalal</sys_name>
+        <sys_package display_value="team" source="x_snc_team">343ef362db7103004a069ea3db9619b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="team">343ef362db7103004a069ea3db9619b4</sys_scope>
+        <sys_update_name>x_snc_team_meeting_3815cedfdbbe430048d13a2b7c961986</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-18 11:58:35</sys_updated_on>
+        <type>1_1</type>
+    </x_snc_team_meeting>
+</record_update>

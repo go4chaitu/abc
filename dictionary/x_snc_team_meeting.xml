@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="update_synch=true" extends="sys_metadata" label="Meeting" max_length="40" name="x_snc_team_meeting" type="collection">
+        <element label="Agenda" max_length="1000" name="agenda" type="string"/>
+        <element display="true" label="Description" max_length="250" name="description" type="string"/>
+        <element label="Employee" max_length="32" name="employee" reference="sys_user" reference_qual="employee_numberISNOTEMPTY^EQ" reference_qual_condition="employee_numberISNOTEMPTY^EQ" type="reference"/>
+        <element label="Location" max_length="400" name="location" type="string"/>
+        <element label="MoM" max_length="1000" name="mom" type="string"/>
+        <element label="Next Meeting" max_length="32" name="next_meeting" reference="x_snc_team_meeting" type="reference"/>
+        <element label="Planned Date" max_length="40" name="planned_date" type="glide_date"/>
+        <element label="Previous Meeting" max_length="32" name="previous_meeting" reference="x_snc_team_meeting" type="reference"/>
+        <element choice="1" default="monthly" label="Repetition" max_length="40" name="repetition" type="choice">
+            <choice>
+                <element label="Daily" value="daily"/>
+                <element label="M W F" value="mwf"/>
+                <element label="Monthly" value="monthly"/>
+                <element label="Quarterly" value="quarterly"/>
+                <element label="T T" value="tt"/>
+                <element label="Weekly" value="weekly"/>
+            </choice>
+        </element>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element label="Completed" value="completed"/>
+                <element label="Planned" value="planned"/>
+                <element label="Rescheduled" value="rescheduled"/>
+                <element label="Scheduled" value="scheduled"/>
+            </choice>
+        </element>
+        <element choice="1" default="1_1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element label="Ideation" value="ideation"/>
+                <element label="Non-Project" value="non-project"/>
+                <element label="One-to-One" value="1_1"/>
+                <element label="Personal" value="personal"/>
+                <element label="Project Meeting" value="project"/>
+                <element label="Team Meeting" value="team"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="previous_meeting"/>
+        </index>
+        <index name="index2">
+            <element name="next_meeting"/>
+        </index>
+        <index name="index3">
+            <element name="employee"/>
+        </index>
+    </element>
+</database>

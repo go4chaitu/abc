@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_snc_team_action_items">
+    <x_snc_team_action_items action="INSERT_OR_UPDATE">
+        <category>feedback</category>
+        <comments/>
+        <description>Avishek is the go-to person for any UI related solutions in Partner Onboarding project. He joined servicenow in the month of May this year and in no time has jumped into the UI intensive project where he showed his expertise in UI by building quick mocks and adapting to the fast changing requirements. He has also designed and implemented a innovative solution of configuring dynamic questionnaire which helped the business self-service without the need from IT to maintain them. He is definitely a great asset to the company and want to reward him for his contributions in this ACR.</description>
+        <end_date/>
+        <follow_up/>
+        <origin display_value="ACR Details - 2018">4ac0fdb9db87c30048d13a2b7c961943</origin>
+        <owner display_value="Avishek Dalal">5885bc930fe6b2408e35a5a8b1050e51</owner>
+        <start_date/>
+        <status>completed</status>
+        <sys_class_name>x_snc_team_action_items</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-16 00:39:38</sys_created_on>
+        <sys_id>75a7bd7ddb87c30048d13a2b7c9619e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="team" source="x_snc_team">343ef362db7103004a069ea3db9619b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="team">343ef362db7103004a069ea3db9619b4</sys_scope>
+        <sys_update_name>x_snc_team_action_items_75a7bd7ddb87c30048d13a2b7c9619e6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-16 00:39:38</sys_updated_on>
+    </x_snc_team_action_items>
+</record_update>

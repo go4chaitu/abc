@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_snc_team_meeting">
+    <x_snc_team_meeting action="INSERT_OR_UPDATE">
+        <agenda/>
+        <description>1-1 Meeting with Ranjeeta Sunkad</description>
+        <employee display_value="Ranjeeta Sunkad">01abe7590f46ba84ad1ac8ece1050e3a</employee>
+        <location/>
+        <mom/>
+        <next_meeting/>
+        <planned_date>2018-01-05</planned_date>
+        <previous_meeting display_value="1-1 Meeting with Ranjeeta Sunkad">ca222443dbb6430048d13a2b7c9619a9</previous_meeting>
+        <repetition/>
+        <status>planned</status>
+        <sys_class_name>x_snc_team_meeting</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-09 05:00:13</sys_created_on>
+        <sys_id>8c61fa2bdbb6830048d13a2b7c9619f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="team" source="x_snc_team">343ef362db7103004a069ea3db9619b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="team">343ef362db7103004a069ea3db9619b4</sys_scope>
+        <sys_update_name>x_snc_team_meeting_8c61fa2bdbb6830048d13a2b7c9619f0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-09 05:00:13</sys_updated_on>
+        <type>1_1</type>
+    </x_snc_team_meeting>
+</record_update>

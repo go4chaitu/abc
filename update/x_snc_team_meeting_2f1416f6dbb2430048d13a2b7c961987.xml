@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_snc_team_meeting">
+    <x_snc_team_meeting action="INSERT_OR_UPDATE">
+        <agenda>1. ACR&#13;
+2. 80-20 Rule --&gt; 45-55 Rule&#13;
+3. Visibility&#13;
+4. Expections&#13;
+      Culture&#13;
+      Trouble Shooting &#13;
+      Mentoring&#13;
+5. My failure to mentor&#13;
+6. Follow up on the Goal settings&#13;
+&#13;
+Feedback:&#13;
+   Visibility, visibility and visibility!!</agenda>
+        <description>1-1 Meeting With Hareesh</description>
+        <employee display_value="Hareesh Neelisetti">d8b765ce2b951a40019a28ac27da15d6</employee>
+        <location/>
+        <mom/>
+        <next_meeting display_value="1-1 Meeting With Hareesh">48d96b4bdb4b470048d13a2b7c961921</next_meeting>
+        <planned_date>2017-12-15</planned_date>
+        <previous_meeting/>
+        <repetition>monthly</repetition>
+        <status>completed</status>
+        <sys_class_name>x_snc_team_meeting</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-06 19:00:29</sys_created_on>
+        <sys_id>2f1416f6dbb2430048d13a2b7c961987</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>1-1 Meeting With Hareesh</sys_name>
+        <sys_package display_value="team" source="x_snc_team">343ef362db7103004a069ea3db9619b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="team">343ef362db7103004a069ea3db9619b4</sys_scope>
+        <sys_update_name>x_snc_team_meeting_2f1416f6dbb2430048d13a2b7c961987</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-20 06:05:32</sys_updated_on>
+        <type>1_1</type>
+    </x_snc_team_meeting>
+</record_update>

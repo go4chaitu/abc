@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_snc_team_meeting">
+    <x_snc_team_meeting action="INSERT_OR_UPDATE">
+        <agenda/>
+        <description>1-1 Meeting with Pradeep Gouribhatla</description>
+        <employee display_value="Pradeep Gouribhatla">3fa541112b54a204f9324f9ab5da157f</employee>
+        <location/>
+        <mom>Performance Appraisal --  Differentiation&#13;
+&#13;
+Upgrade -- Reduce the mess and optimize the time&#13;
+ML -- March POC&#13;
+    Skill Alignment use case&#13;
+RcR -- Major functionaities (Server side running capability)&#13;
+             Parent Node sensitive Ignore capability&#13;
+             More Code snippet types to handle&#13;
+                                                    &#13;
+       &#13;
+-----&#13;
+Learning&#13;
+&#13;
+--------------&#13;
+Process Improvements&#13;
+&#13;
+---------------&#13;
+&#13;
+&#13;
+         &#13;
+ </mom>
+        <next_meeting/>
+        <planned_date>2017-12-15</planned_date>
+        <previous_meeting/>
+        <repetition>monthly</repetition>
+        <status>planned</status>
+        <sys_class_name>x_snc_team_meeting</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-08 07:27:31</sys_created_on>
+        <sys_id>4f694e53dbfe430048d13a2b7c96190a</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>1-1 Meeting with Pradeep Gouribhatla</sys_name>
+        <sys_package display_value="team" source="x_snc_team">343ef362db7103004a069ea3db9619b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="team">343ef362db7103004a069ea3db9619b4</sys_scope>
+        <sys_update_name>x_snc_team_meeting_4f694e53dbfe430048d13a2b7c96190a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-18 05:57:32</sys_updated_on>
+        <type>1_1</type>
+    </x_snc_team_meeting>
+</record_update>

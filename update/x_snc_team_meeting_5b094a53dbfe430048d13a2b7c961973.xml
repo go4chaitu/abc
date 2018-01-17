@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_snc_team_meeting">
+    <x_snc_team_meeting action="INSERT_OR_UPDATE">
+        <agenda/>
+        <description>1-1 Meeting with Sree Lakshmi Balanagu</description>
+        <employee display_value="Sree Lakshmi Balanagu">974b41756f044b80d97c5cfd5d3ee47a</employee>
+        <location/>
+        <mom>1. CPQ --&gt; Sashi (information passing) --&gt; Only because of timezone issues (Eddie)&#13;
+2. Document Migration in progress&#13;
+3. Issues with Dependency</mom>
+        <next_meeting display_value="1-1 Meeting with Sree Lakshmi Balanagu">cc7763f2dbc3470048d13a2b7c96197e</next_meeting>
+        <planned_date>2017-12-12</planned_date>
+        <previous_meeting/>
+        <repetition>monthly</repetition>
+        <status>completed</status>
+        <sys_class_name>x_snc_team_meeting</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-08 07:25:49</sys_created_on>
+        <sys_id>5b094a53dbfe430048d13a2b7c961973</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>1-1 Meeting with Sree Lakshmi Balanagu</sys_name>
+        <sys_package display_value="team" source="x_snc_team">343ef362db7103004a069ea3db9619b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="team">343ef362db7103004a069ea3db9619b4</sys_scope>
+        <sys_update_name>x_snc_team_meeting_5b094a53dbfe430048d13a2b7c961973</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-19 11:16:40</sys_updated_on>
+        <type>1_1</type>
+    </x_snc_team_meeting>
+</record_update>

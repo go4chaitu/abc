@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_snc_team_meeting">
+    <x_snc_team_meeting action="INSERT_OR_UPDATE">
+        <agenda>1. Share Training plan&#13;
+2. 80-20 Philosophy&#13;
+3. Our Culture&#13;
+4. Goals for the next quarter&#13;
+5. Start working on the Legal Click Thr. with Hareesh&#13;
+&#13;
+</agenda>
+        <description>1-1 Meeting with Pavan Kanamarlapudi</description>
+        <employee display_value="Pavan Kanamarlapudi">743a80204f8e3a8077b53f75f110c7cf</employee>
+        <location>Ramganga</location>
+        <mom>What's working well:&#13;
+&#13;
+1. Good work on the self-service automation of carousel changes.&#13;
+2. Expertize on issues related Integrations - MDM/SURF/PP.  Expecting to see the confidence in you to step up to the occasion when required.&#13;
+3. Good job in the Deployment Registration project. Looking forward for your lion's share in the upcoming projects.&#13;
+&#13;
+ToDo's:&#13;
+&#13;
+1. Brainstorm ideas related to Angular/react to grasp the subject well.&#13;
+2. Send me the Goals for next quarter.&#13;
+3. Deep dive into the project "Legal Click Thr" to get a quick start. Get the FRD from Hareesh and discuss the details with Surarchit to take it from there.&#13;
+&#13;
+Improvement Areas:&#13;
+&#13;
+1. Work on visibility by creating a value-add components from the strengths to build the differentiator.&#13;
+     Example: Contribute to the community, Innovation, Tech Talks etc.&#13;
+2. Learn to think on feat and demonstrate the problem solving skills when required.&#13;
+3. Communication skills that should help in convincing and pursuading your point of view. This might help you leave a long-lasting impression in the participants which might in-turn creates a value-add.&#13;
+4. Align with Culture and Performance Appraisal philosophy of the company.&#13;
+</mom>
+        <next_meeting display_value="1-1 Meeting with Pavan Kanamarlapudi">82510fa8db4b43004a069ea3db96194c</next_meeting>
+        <planned_date>2017-12-12</planned_date>
+        <previous_meeting/>
+        <repetition>monthly</repetition>
+        <status>completed</status>
+        <sys_class_name>x_snc_team_meeting</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-08 05:47:16</sys_created_on>
+        <sys_id>98d0b5d7dbbe430048d13a2b7c96198a</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>1-1 Meeting with Pavan Kanamarlapudi</sys_name>
+        <sys_package display_value="team" source="x_snc_team">343ef362db7103004a069ea3db9619b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="team">343ef362db7103004a069ea3db9619b4</sys_scope>
+        <sys_update_name>x_snc_team_meeting_98d0b5d7dbbe430048d13a2b7c96198a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-12 09:26:43</sys_updated_on>
+        <type>1_1</type>
+    </x_snc_team_meeting>
+</record_update>

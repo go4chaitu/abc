@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_snc_team_action_items">
+    <x_snc_team_action_items action="INSERT_OR_UPDATE">
+        <category>learning</category>
+        <comments/>
+        <description>Training Plan - Angular and React</description>
+        <end_date/>
+        <follow_up>2017-12-13</follow_up>
+        <origin display_value="1-1 Meeting with Pavan Kanamarlapudi">98d0b5d7dbbe430048d13a2b7c96198a</origin>
+        <owner display_value="Pavan Kanamarlapudi">743a80204f8e3a8077b53f75f110c7cf</owner>
+        <start_date>2017-12-08</start_date>
+        <status>draft</status>
+        <sys_class_name>x_snc_team_action_items</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-08 05:47:16</sys_created_on>
+        <sys_id>c9d075d7dbbe430048d13a2b7c961979</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="team" source="x_snc_team">343ef362db7103004a069ea3db9619b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="team">343ef362db7103004a069ea3db9619b4</sys_scope>
+        <sys_update_name>x_snc_team_action_items_c9d075d7dbbe430048d13a2b7c961979</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-12 08:53:07</sys_updated_on>
+    </x_snc_team_action_items>
+</record_update>

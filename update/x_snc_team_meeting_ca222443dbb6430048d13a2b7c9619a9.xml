@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_snc_team_meeting">
+    <x_snc_team_meeting action="INSERT_OR_UPDATE">
+        <agenda>1. Eclipse setup for PS automation runs&#13;
+2. More initiatives = more visibility &#13;
+3. 45-55 Model&#13;
+4. Continue the proactive approach to give Demos for CPQ to the team&#13;
+5. Training plan -- Need to share&#13;
+6. Sree Lakshmi's approach - Feedback check&#13;
+7. Automation &amp; Revenue impact -- Template&#13;
+&#13;
+</agenda>
+        <description>1-1 Meeting with Ranjeeta Sunkad</description>
+        <employee display_value="Ranjeeta Sunkad">01abe7590f46ba84ad1ac8ece1050e3a</employee>
+        <location>Ramganga</location>
+        <mom>1. Apttus Contract changes and not being looped in&#13;
+2. Apttus is very slow&#13;
+3. No proper collaboration (Soumit Panda)&#13;
+4. Mock Services --&gt; Innvovation&#13;
+5. Sending Clarifications -- Feedback to Muthu&#13;
+&#13;
+------&#13;
+1.	Apttus Issues – &#13;
+        a.	PS team is not getting looped into the Apttus integration changes which is causing the development slow down.&#13;
+        b.	Also, Apttus is very slow for validating any development changes done from SURF side.&#13;
+        c.	No proper collaboration with Apttus team to get the issues resolved (Soumit Panda)&#13;
+&#13;
+AI: Chaitanya will bring this issue to the notice of the Apttus team in the next weekly sync up.&#13;
+AI: Chaitanya need to provide feedback to Muthu about prompt responses for the clarifications from the team to accelerate the development.&#13;
+&#13;
+2.	Training plan: AI: Ranjeeta will share the details of the training completed on wordpress and will plan for an internal demo.&#13;
+&#13;
+3.	Cultural aspects: Authority, Own it and Move forward.&#13;
+&#13;
+4.	ServiceNow Performance Appraisal Philosophy – Competition with Collaboration&#13;
+</mom>
+        <next_meeting display_value="1-1 Meeting with Ranjeeta Sunkad">8c61fa2bdbb6830048d13a2b7c9619f0</next_meeting>
+        <planned_date>2017-12-06</planned_date>
+        <previous_meeting/>
+        <repetition>monthly</repetition>
+        <status>completed</status>
+        <sys_class_name>x_snc_team_meeting</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-07 05:22:26</sys_created_on>
+        <sys_id>ca222443dbb6430048d13a2b7c9619a9</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="team" source="x_snc_team">343ef362db7103004a069ea3db9619b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="team">343ef362db7103004a069ea3db9619b4</sys_scope>
+        <sys_update_name>x_snc_team_meeting_ca222443dbb6430048d13a2b7c9619a9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-09 05:00:13</sys_updated_on>
+        <type>1_1</type>
+    </x_snc_team_meeting>
+</record_update>

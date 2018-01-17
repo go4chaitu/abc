@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_snc_team_action_items">
+    <x_snc_team_action_items action="INSERT_OR_UPDATE">
+        <category>learning</category>
+        <comments/>
+        <description>Training Plan for the month.</description>
+        <end_date/>
+        <follow_up>2017-12-13</follow_up>
+        <origin display_value="1-1 Meeting with Ranjeeta Sunkad">ca222443dbb6430048d13a2b7c9619a9</origin>
+        <owner display_value="Ranjeeta Sunkad">01abe7590f46ba84ad1ac8ece1050e3a</owner>
+        <start_date>2017-10-10</start_date>
+        <status>draft</status>
+        <sys_class_name>x_snc_team_action_items</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-07 05:25:29</sys_created_on>
+        <sys_id>2a436c03dbb6430048d13a2b7c96198d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="team" source="x_snc_team">343ef362db7103004a069ea3db9619b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="team">343ef362db7103004a069ea3db9619b4</sys_scope>
+        <sys_update_name>x_snc_team_action_items_2a436c03dbb6430048d13a2b7c96198d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-07 05:25:29</sys_updated_on>
+    </x_snc_team_action_items>
+</record_update>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_snc_team_action_items">
+    <x_snc_team_action_items action="INSERT_OR_UPDATE">
+        <category>feedback</category>
+        <comments/>
+        <description>Anil is an extremely valuable resource for partner portal and he has proved his caliber to convert the vision into reality in several instances by mixing his creativity, problem solving skills and effective communications to bring viable and expert level solutions on to the table. His approach towards the problem solving is unique and rare because of his varied skill set and ability to not just learn quick but adapt it into the problem space brilliantly. Partner Onboarding project is an example to speak out his work where he strived to bring the innovative &amp; smart solutions to add more meaning and completeness to the asks to make the partner experience more intuitive and partner ops better self-serviced to save the bucks in maintenance with the given constraints. &#13;
+Anil's assertive communication skills helped reach the connect with BSAs and Business in pretty short span and his Business demo presentations helped the team to have an effective sharing of the understanding and in closing the loop with the business asks. He is an enthusiastic and geek who loves to experiment and research new technologies and one such feat is the idea he implemented in our Hackathon event using PWA (progressive web apps) and was selected as one of the top 5 ideas in India.&#13;
+Anil's ability to re-skill and up-skill is the look after asset to the organisation and he is very promising to live up to the new skill demands in the future assignments.&#13;
+&#13;
+Key Projects&#13;
+1. TPP Phase-4&#13;
+2. Onboarding workflow Project spike and development stories&#13;
+3. Designed and implemented Partner Portal Onboarding Phase 5 UI and Backend&#13;
+4. Project level innovations like Delegation Feature as Plug play for all Functionalities and Dynamic Questionnaire as part of onboarding UI task which is configurable and extendable&#13;
+&#13;
+Innovation/Others&#13;
+1. Automated TDD and integration with reviews from Rapid Code Review Tool&#13;
+2. Participated in HACKATHON 2017 and selected as one of the top 5 ideas from Hyderabad&#13;
+3. Submitted a Patent on PWA (Creation of Progressive WebApp as a Framework in Service now) and is in evaluation process.&#13;
+</description>
+        <end_date/>
+        <follow_up/>
+        <origin display_value="ACR Details - 2018">4ac0fdb9db87c30048d13a2b7c961943</origin>
+        <owner display_value="anil anil">478641512b54a204f9324f9ab5da15f1</owner>
+        <start_date/>
+        <status>completed</status>
+        <sys_class_name>x_snc_team_action_items</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-16 00:06:10</sys_created_on>
+        <sys_id>67e0b9b9db87c30048d13a2b7c961983</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="team" source="x_snc_team">343ef362db7103004a069ea3db9619b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="team">343ef362db7103004a069ea3db9619b4</sys_scope>
+        <sys_update_name>x_snc_team_action_items_67e0b9b9db87c30048d13a2b7c961983</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-16 00:33:48</sys_updated_on>
+    </x_snc_team_action_items>
+</record_update>

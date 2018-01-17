@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_snc_team_meeting">
+    <x_snc_team_meeting action="INSERT_OR_UPDATE">
+        <agenda>1. Process Suggestions -- Don't push to UAT until QA passed (Spandan &amp; Nilesh's use cases)&#13;
+2. Tools4IT -- Thanks for your support&#13;
+3. Goals for next quarter:&#13;
+	&gt;Strong Reviewing Process&#13;
+4. Performance Appraisals --&gt; 45-55 Model scaling tips &#13;
+        Bell shaped curve --         &#13;
+                     Rolls up the sleeves&#13;
+                     &#13;
+5. Innovation &#13;
+     &gt;RcR&#13;
+     &gt;NLP&#13;
+     &gt;Facebot&#13;
+     &gt;Easy Task&#13;
+     &gt;Env. Integrations exploration&#13;
+6. Incidents/Requests Queue --&gt; Need to explore default bucket of work&#13;
+7. Stabbing at 2018 Project --&gt; Click thr. Project&#13;
+8. Budget for single person licenses to the courses -- egghead, frontendmasters, medium.com etc.&#13;
+      Get a quote and review with Arun&#13;
+      For across front office? Need a business justification&#13;
+     &#13;
+9. Goals for me&#13;
+        Career Development Plan --&gt; Template&#13;
+        Project Delivery &#13;
+        Mentoring - Technical &amp; Non-Technical &#13;
+                 Permutations &amp; Combinations --&gt; List of functional areas and have experts in functional area (Primary &amp; Secondary)&#13;
+                 Hedge your bet, Insurance Policy&#13;
+        Career path of next people --&gt; Send me a copy of the CDP&#13;
+10. Build a rapport with Peers&#13;
+11. Politically keeping yourself safe--&gt; Constructively bubble it... direct feedback or right data point of a deliverable and impact&#13;
+          Negotiate and set right expectations    &#13;
+          9 Box Calibration with Data points&#13;
+12. Help and don't let the credit go. &#13;
+13. Keep innovating and do the communication side &#13;
+&#13;
+&#13;
+        &#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+</agenda>
+        <description>1-1 Meeting with Ritesh Arora</description>
+        <employee display_value="Ritesh Arora">cd4f0e534f1c42001d4b95bd0210c7a6</employee>
+        <location/>
+        <mom/>
+        <next_meeting/>
+        <planned_date>2018-01-05</planned_date>
+        <previous_meeting/>
+        <repetition>weekly</repetition>
+        <status>planned</status>
+        <sys_class_name>x_snc_team_meeting</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-11 06:48:40</sys_created_on>
+        <sys_id>6d509dd0db0343004a069ea3db9619c8</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>1-1 Meeting with Ritesh Arora</sys_name>
+        <sys_package display_value="team" source="x_snc_team">343ef362db7103004a069ea3db9619b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="team">343ef362db7103004a069ea3db9619b4</sys_scope>
+        <sys_update_name>x_snc_team_meeting_6d509dd0db0343004a069ea3db9619c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-05 06:04:49</sys_updated_on>
+        <type>1_1</type>
+    </x_snc_team_meeting>
+</record_update>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_snc_team_meeting">
+    <x_snc_team_meeting action="INSERT_OR_UPDATE">
+        <agenda>Training Plan:  Choose 2 courses for the next month to complete and give session to the team.&#13;
+Culture: Own it, Authority and Move Forward&#13;
+ServiceNow Performance Appraisal Philosophy&#13;
+Create visibility&#13;
+&#13;
+Last meeting followups:&#13;
+   Eclipse setup for PP regression automation suite&#13;
+   Update on the Env. Integrations work&#13;
+   Feedback: Sprint stories to be planned early in the sprint&#13;
+   Feedback: Be more active in the meetings and build a rapport with the BSAs&#13;
+   Process Change: Good suggestions on the process improvements like Defect write-up (STR, expected and actual)&#13;
+   Shared training plan&#13;
+      Bootstrap 4 --&gt; ETask --&gt; Jan 25th &#13;
+      &#13;
+      JavaScript Essentials: JavaScript In Depth&#13;
+      Cloud System Architecture – Concepts and Design&#13;
+      MySQL: General Syntax, Advanced Queries, and Stored Programs&#13;
+      Getting Started with Hibernate&#13;
+      Deep Diving with Hibernate and Queries&#13;
+      Defensive Programming in Java: Data Security and Access Control&#13;
+      Defensive Programming in Java: Data Handling, Injection Attacks, and Concurrency&#13;
+      Getting Started with Amazon Web Services&#13;
+      Beginning Object-Oriented Design&#13;
+      Introduction to SOLID&#13;
+      SOLID Fundamentals&#13;
+      Architecture N-Tier/REST: Designing and Building Applications&#13;
+      Introduction to Domain-driven Design&#13;
+      Components of Domain-driven Design&#13;
+      Expanding Design Patterns&#13;
+      JUnit Fundamentals&#13;
+      Working with JUnit Tests</agenda>
+        <description>1-1 Meeting with Sneha Kuncham Srinivas</description>
+        <employee display_value="Sneha Kuncham Srinivas">eda564ba0f9af60060ece128b1050ebb</employee>
+        <location/>
+        <mom/>
+        <next_meeting display_value="1-1 Meeting with Sneha Kuncham Srinivas">3fe05e44dba74f0048d13a2b7c9619c9</next_meeting>
+        <planned_date>2018-01-03</planned_date>
+        <previous_meeting/>
+        <repetition/>
+        <status>completed</status>
+        <sys_class_name>x_snc_team_meeting</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-08 06:58:24</sys_created_on>
+        <sys_id>ecc24e9fdbbe430048d13a2b7c9619a1</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>1-1 Meeting with Sneha Kuncham Srinivas</sys_name>
+        <sys_package display_value="team" source="x_snc_team">343ef362db7103004a069ea3db9619b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="team">343ef362db7103004a069ea3db9619b4</sys_scope>
+        <sys_update_name>x_snc_team_meeting_ecc24e9fdbbe430048d13a2b7c9619a1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-04 12:26:50</sys_updated_on>
+        <type>1_1</type>
+    </x_snc_team_meeting>
+</record_update>
